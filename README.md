@@ -1,0 +1,1 @@
+Little bytes of knowledge I've learned during my software developement journey.
